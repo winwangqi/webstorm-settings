@@ -1,0 +1,33 @@
+<application>
+  <component name="CodeStyleSchemesUIConfiguration">
+    <option name="RECENT_IMPORT_FILE_LOCATION" value="file:D:/FavoriteCodeStyle.xml" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/nodejs/node.exe">
+      <version-cache version="10.14.2" last-modified="1544449720000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="17-17-17-255,,,51-51-51-255,,,34-34-34-255,,,18-18-18-255,,,24-24-24-255,,,26-26-26-255,,,38-38-38-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7219917" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.55921054" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="typo&#10;new line&#10;unter&#10;import&#10;resolve symbol&#10;invalid css p&#10;possib&#10;poss&#10;possib itera&#10;unresolved variable" />
+    <property name="SearchEveryWhereHistory" value="loadCommentData&#10;welcome&#10;goods-list&#10;modal-close&#10;订单啊" />
+    <property name="SettingsSearchHistory" value="watch&#10;file&#10;file types&#10;exten&#10;terminal" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="evlsprt3.181" value="13" />
+    <property name="evlsprt3.182" value="16" />
+    <property name="evlsprt3.183" value="19" />
+    <property name="file.chooser.recent.files" value="D:/Project/Other/point-exchange&#10;D:/Project/Other/product-management/mini-program&#10;D:/Project/Other/product-management&#10;D:/Project/Skycar/04-frontend/order-email&#10;D:/Project/Playground/razzle-demo&#10;D:/Project/Playground/minial-webpack-demo&#10;D:/Project/Skycar/04-frontend/wap-pay-v2&#10;D:/Project/Playground/canbe&#10;D:/Project/Playground/react-ssr&#10;D:/Project/Mountain&#10;D:/Project/Willpower/code/server&#10;D:/Project/Willpower&#10;D:/Project/Playground/react-ts&#10;D:/Project/HuaJuan/subject-h5&#10;D:/Project/Aphorism&#10;D:/Project/Skycar/04-frontend/skycar2/driver&#10;D:/Project/Skycar/04-frontend/wxapp-v2-driver&#10;D:/FavoriteCodeStyle.xml&#10;D:/Project/Other/qile/doc/Archive&#10;D:/Project/Skycar/04-frontend/skycar2&#10;D:/Project/Skycar/04-frontend/wxapp-v1&#10;D:/Project/Skycar/04-frontend/skycar-admin-v2" />
+    <property name="file.gist.reindex.count" value="58266" />
+    <property name="fileTypeChangedCounter" value="10" />
+    <property name="javascript.return.tag" value="returns" />
+    <property name="selected.color.option.type" value="TEXT" />
+    <property name="settings.code.style.selected.tab.HTML" value="Other" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Punctuation" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
