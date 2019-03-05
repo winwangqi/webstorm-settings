@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
-      <mapping pattern="html-webpack-mfs-plugin" type="JavaScript" />
-      <mapping pattern=".foreverignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
