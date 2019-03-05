@@ -1,0 +1,44 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CheckTagEmptyBody</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="10.15.0" last-modified="1545776960000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="128-173-120-255,,,115-154-108-255,,,212-236-255-255,,,143-7-9-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.66481996" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="empty tag&#10;typo&#10;property value&#10;boolean tag&#10;wrong attribute" />
+    <property name="SettingsSearchHistory" value="prms&#10;file&#10;type&#10;filetype&#10;file watch" />
+    <property name="SplitFileEditor.Proportion" value="0.5136213" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="file.chooser.recent.files" value="D:/19.wx-app-admin&#10;D:/99.other/point-exchange&#10;D:/16.unified-authorization-platform&#10;D:/99.other/product-management&#10;D:/10.juanmeng-h5&#10;D:/12.huajuan-wx-live&#10;D:/15.subject-admin&#10;D:/99.other/minial-webpack-demo&#10;D:/13.huajuan-h5&#10;D:/14.subject-h5&#10;D:/08.huajuan-wx-app&#10;D:/17.pay-admin&#10;D:/18.wx-mini-welfare&#10;E:/Default.xml" />
+    <property name="file.gist.reindex.count" value="84829" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="lastTip" value="59" />
+    <property name="selected.color.option.type" value="DART_IDENTIFIER" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Spaces" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
