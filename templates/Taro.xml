@@ -1,0 +1,8 @@
+<templateSet group="Taro">
+  <template name="taro-base" value="import Taro from '@tarojs/taro'&#10;import { View } from '@tarojs/components'&#10;&#10;export default class $COMPONENT$ extends Taro.Component {&#10;  render () {&#10;    return (&#10;      &lt;View&gt;&#10;        $END$&#10;      &lt;/View&gt;&#10;    )&#10;  }&#10;}" description="taro base template" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
