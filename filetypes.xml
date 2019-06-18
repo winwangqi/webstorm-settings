@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="wxss" type="CSS" />
       <mapping ext="wxml" type="HTML" />
+      <mapping pattern="constants.js" type="JavaScript" />
       <mapping pattern="OrderItemvue" type="Vue.js" />
     </extensionMap>
   </component>
