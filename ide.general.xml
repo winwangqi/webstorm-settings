@@ -2,4 +2,7 @@
   <component name="GeneralSettings">
     <option name="useSafeWrite" value="false" />
   </component>
+  <component name="Registry">
+    <entry key="js.debugger.webconsole" value="false" />
+  </component>
 </application>
