@@ -1,5 +1,7 @@
 <application>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="20" />
+    <option name="FONT_FAMILY" value="PT Mono" />
+    <option name="LINE_SPACING" value="2.0" />
   </component>
 </application>
