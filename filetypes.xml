@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="kf" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
+      <mapping ext="j" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
