@@ -4,6 +4,8 @@
       <mapping pattern="kf" type="JavaScript" />
       <mapping ext="mdx" type="Markdown" />
       <mapping pattern=".editconfig" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
+      <mapping pattern=".huskyrc" type="PLAIN_TEXT" />
       <mapping ext="j" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
